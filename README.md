@@ -1,4 +1,4 @@
-Introduction_to_Computing-C-_by_PekingUniversity-
+Introduction_to_Computing-C++
 =================================================
 
-coursera-this is introductory course to C++ by Ge Li from Peking University(Sep 2014 to Nov 2014).
+coursera-This is introductory course to C++ by Ge Li from Peking University(Sep 2014 to Nov 2014).
